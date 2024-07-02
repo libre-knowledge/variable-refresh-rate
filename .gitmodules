@@ -7,3 +7,7 @@
 #
 # Copyright 2021 林博仁(Buo-ren, Lin) <Buo.Ren.Lin@gmail.com>
 # SPDX-License-Identifier: CC-BY-SA-4.0 OR LicenseRef-Apache-2.0-If-Not-Used-In-Template-Projects
+[submodule "VRRTest：用來測試動態畫面更新率(VRR)的工具"]
+	path = VRRTest：用來測試動態畫面更新率(VRR)的工具
+	url = https://gitlab.com/libre-knowledge/vrrtest.git
+	ignore = dirty

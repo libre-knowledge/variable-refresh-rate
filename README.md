@@ -11,13 +11,14 @@
 
 * [Mac最新支援的VRR是什麼！性能與實際表現，Mac與Windows到底該如何選？(上) | 百佳泰 Allion Labs](https://www.allion.com.tw/tech_audio_video_adaptivesync/)
 
-<!--
 ## 解決方案
 
 以下列舉本主題相關的解決方案：
 
-（待補）
+* [VRRTest](https://gitlab.com/libre-knowledge/vrrtest)  
+  用來測試動態畫面更新率(VRR)的工具
 
+<!--
 ## 子主題
 
 以下列舉本主題相關的主題：
