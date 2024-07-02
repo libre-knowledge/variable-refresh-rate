@@ -1,4 +1,4 @@
-# 動態畫面更新率<br>Variable refresh rate(VRR)
+# 動態畫面更新率<br>Variable Refresh Rate(VRR)
 
 使螢幕得以使用與顯示界面相同的速度更新畫面，避免畫面撕裂
 
